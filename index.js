@@ -1,7 +1,8 @@
 module.exports = {
+  plugin: ["etc"],
   rules: {
-    "no-assign-mutated-array": ["error"],
-    "no-unused-declaration": ["error"],
-    "throw-error": ["error"]
+    "etc/no-assign-mutated-array": ["error"],
+    "etc/no-unused-declaration": ["error"],
+    "etc/throw-error": ["error"]
   }
 };
