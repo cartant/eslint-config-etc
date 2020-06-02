@@ -1,7 +1,7 @@
 module.exports = {
   rules: {
-    // "no-assign-mutated-array"
-    // "no-unused-declaration"
-    // "throw-error"
+    "no-assign-mutated-array": ["error"],
+    "no-unused-declaration": ["error"],
+    "throw-error": ["error"]
   }
 };
