@@ -14,7 +14,7 @@
   "optionalDependencies": {},
   "peerDependencies": {
     "eslint": "^7.0.0",
-    "eslint-plugin-etc": "^1.0.0"
+    "eslint-plugin-etc": "^0.0.1-beta.27"
   },
   "private": false,
   "publishConfig": {
