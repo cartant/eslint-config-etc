@@ -4,6 +4,6 @@ module.exports = {
     "etc/deprecation": ["warn"],
     "etc/no-assign-mutated-array": ["error"],
     "etc/no-unused-declaration": ["error"],
-    "etc/throw-error": ["error"]
-  }
+    "etc/throw-error": ["error"],
+  },
 };
