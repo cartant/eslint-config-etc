@@ -1,5 +1,5 @@
 module.exports = {
-  plugin: ["etc"],
+  plugins: ["etc"],
   rules: {
     "etc/deprecation": ["warning"],
     "etc/no-assign-mutated-array": ["error"],
