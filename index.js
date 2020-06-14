@@ -3,7 +3,7 @@ module.exports = {
   rules: {
     "etc/deprecation": ["warn"],
     "etc/no-assign-mutated-array": ["error"],
-    "etc/no-unused-declaration": ["error"],
+    "etc/no-unused-declaration": ["warn"],
     "etc/throw-error": ["error"],
   },
 };
