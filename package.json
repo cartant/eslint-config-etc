@@ -3,7 +3,9 @@
   "bugs": {
     "url": "https://github.com/cartant/eslint-config-etc/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "eslint-plugin-etc": "^0.0.2-beta.45"
+  },
   "description": "ESLint configuration",
   "devDependencies": {},
   "homepage": "https://github.com/cartant/eslint-config-etc",
@@ -13,8 +15,7 @@
   "name": "@cartant/eslint-config-etc",
   "optionalDependencies": {},
   "peerDependencies": {
-    "eslint": "^7.0.0",
-    "eslint-plugin-etc": "^0.0.1-beta.27"
+    "eslint": "^7.0.0"
   },
   "private": false,
   "publishConfig": {
