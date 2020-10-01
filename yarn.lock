@@ -183,10 +183,10 @@ eslint-etc@^4.0.0:
     tsutils "^3.17.1"
     tsutils-etc "^1.2.2"
 
-eslint-plugin-etc@^0.0.3-beta.46:
-  version "0.0.3-beta.46"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-etc/-/eslint-plugin-etc-0.0.3-beta.46.tgz#673a4cfb537797e3e68ba48b6b1587e5c8af908d"
-  integrity sha512-U3J/1tGD+GuBeVXRQWJJZhL8WJzKLivvDNsQADGQuR69hx3Nc1oYK6zggphslbfG+4Ir6u2N5F9YufIphXIO4Q==
+eslint-plugin-etc@^0.0.3-beta.47:
+  version "0.0.3-beta.47"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-etc/-/eslint-plugin-etc-0.0.3-beta.47.tgz#4b31fe51e4fa728b9a57e12ff29ff68b881c9042"
+  integrity sha512-ZnXangLRCUO/OWI+eN66vKm8bImRb+nXVZ3BTUy6pLRYvG29NGidtFLAf57UCFHzwHBMGq8J9+Vvf7L1yA2E9w==
   dependencies:
     "@phenomnomnominal/tsquery" "^4.0.0"
     "@typescript-eslint/experimental-utils" "^4.0.0"

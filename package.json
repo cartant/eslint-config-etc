@@ -4,7 +4,7 @@
     "url": "https://github.com/cartant/eslint-config-etc/issues"
   },
   "dependencies": {
-    "eslint-plugin-etc": "^0.0.3-beta.46"
+    "eslint-plugin-etc": "^0.0.3-beta.47"
   },
   "description": "ESLint configuration",
   "devDependencies": {},
