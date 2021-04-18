@@ -7,5 +7,6 @@ module.exports = {
     "etc/no-implicit-any-catch": ["error"],
     "etc/no-internal": ["error"],
     "etc/throw-error": ["error"],
+    "etc/underscore-internal": ["warn"],
   },
 };
